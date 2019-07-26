@@ -6,5 +6,5 @@ Supervised Machine Learning algorithms such as KNN,Linear Regression,Logistic Re
 Tableau was used for generating visualizations and to draw inferences.
 
 
-##Conclusion
+## Conclusion:
 The accuracy of random forest is the highest.The sensitivity is very high whereas the specificity is very low.Therefore the model is more accurate for non-defaultesr than defaulters.The most important variables are revolving utilization of unsecured lines, debt ratio and monthly income and the least important variable is number of dependents.
